@@ -1,5 +1,6 @@
 # training_csharp
 Three functions are used in "stats.cs":
+
 1 - mean() function 
   Calculated the sum of the array and stored it in variable "sum".
   Then calculate mean by dividing sum with the size of the array and stored the result in variable "resultMean".
