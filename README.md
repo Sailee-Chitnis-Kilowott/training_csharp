@@ -2,14 +2,14 @@
 Three functions are used in "stats.cs":
 1 - mean() function 
   Calculated the sum of the array and stored it in variable "sum".
-  Then calculate mean by dividing sum with the size of the array and store the result in variable "resultMean".
+  Then calculate mean by dividing sum with the size of the array and stored the result in variable "resultMean".
   The resultMean will have the required mean.
   
 2 - median() function
   Sort the array
   Then check where the size of the array is odd or even
-  If the size is even then we get 2 numbers as the middle elements then find the average of both the numbers and store it in variable "resultMedian"
-  else the middle element will be the median and store it in the variable "resultMedian".
+  If the size is even then we get 2 numbers as the middle elements then find the average of both the numbers and stored it in variable "resultMedian"
+  else the middle element will be the median and stored it in the variable "resultMedian".
   The resultMedium will have the required median.
   
 3 - mode() function
