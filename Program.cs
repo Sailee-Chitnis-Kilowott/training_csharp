@@ -14,12 +14,6 @@ namespace ModifiedAssignment
             var spObject = new Stats();
             spObject.Numbers = data;
             var result = spObject.GetStatsResult();
-            //var mean = spObject.CalculateMean();
-            // Console.WriteLine($"Mean : {mean}");
-            // var median = spObject.CalculateMedian();
-            // Console.WriteLine($"Median : {median}");
-            // var mode = spObject.CalculateMode();
-            // Console.WriteLine($"Mode : {mode}");
             Console.WriteLine($"Mean : {result.Mean}");
             Console.WriteLine($"Median : {result.Median}");
             Console.WriteLine($"Mode : {result.Mode}");
