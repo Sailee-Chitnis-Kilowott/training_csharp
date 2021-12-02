@@ -1,0 +1,15 @@
+C:\Users\Kilowott\source\repos\DotNetAssignment\bin\Debug\net6.0\DotNetAssignment.exe
+C:\Users\Kilowott\source\repos\DotNetAssignment\bin\Debug\net6.0\DotNetAssignment.deps.json
+C:\Users\Kilowott\source\repos\DotNetAssignment\bin\Debug\net6.0\DotNetAssignment.runtimeconfig.json
+C:\Users\Kilowott\source\repos\DotNetAssignment\bin\Debug\net6.0\DotNetAssignment.dll
+C:\Users\Kilowott\source\repos\DotNetAssignment\bin\Debug\net6.0\ref\DotNetAssignment.dll
+C:\Users\Kilowott\source\repos\DotNetAssignment\bin\Debug\net6.0\DotNetAssignment.pdb
+C:\Users\Kilowott\source\repos\DotNetAssignment\obj\Debug\net6.0\DotNetAssignment.csproj.AssemblyReference.cache
+C:\Users\Kilowott\source\repos\DotNetAssignment\obj\Debug\net6.0\DotNetAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kilowott\source\repos\DotNetAssignment\obj\Debug\net6.0\DotNetAssignment.AssemblyInfoInputs.cache
+C:\Users\Kilowott\source\repos\DotNetAssignment\obj\Debug\net6.0\DotNetAssignment.AssemblyInfo.cs
+C:\Users\Kilowott\source\repos\DotNetAssignment\obj\Debug\net6.0\DotNetAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kilowott\source\repos\DotNetAssignment\obj\Debug\net6.0\DotNetAssignment.dll
+C:\Users\Kilowott\source\repos\DotNetAssignment\obj\Debug\net6.0\ref\DotNetAssignment.dll
+C:\Users\Kilowott\source\repos\DotNetAssignment\obj\Debug\net6.0\DotNetAssignment.pdb
+C:\Users\Kilowott\source\repos\DotNetAssignment\obj\Debug\net6.0\DotNetAssignment.genruntimeconfig.cache
